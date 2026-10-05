@@ -1,4 +1,4 @@
-# Aprenda PostgreSQL em Português
+# Aprenda PostgreSQL
 
 Material de estudo e consulta rápida para PostgreSQL, com exemplos práticos e uma Wiki em PT-BR.
 
@@ -32,14 +32,6 @@ Comece por [`exemplos/01-schema.sql`](./exemplos/01-schema.sql) e depois carregu
 ## Wiki
 
 A documentação está organizada em capítulos independentes. A [`Home`](./wiki/Home.md) traz o caminho sugerido para estudo.
-
-## Rodando localmente
-
-Com Docker:
-
-```bash
-docker compose up -d
-```
 
 Depois, conecte no banco `postgresql_ptbr` e execute os scripts necessários.
 
