@@ -31,13 +31,15 @@ Comece por [`exemplos/01-schema.sql`](./exemplos/01-schema.sql) e depois carregu
 
 ## Wiki
 
-A documentação está organizada em capítulos independentes. A [`Home`](./wiki/Home.md) traz o caminho sugerido para estudo.
+A documentação está organizada em capítulos independentes. A [`Home`](../../wiki/Home) traz o caminho sugerido para estudo.
 
 Depois, conecte no banco `postgresql_ptbr` e execute os scripts necessários.
 
 ## Referência
 
-A organização dos assuntos foi inspirada no tutorial de PostgreSQL do w3resource. O conteúdo deste projeto foi reescrito e os exemplos foram criados para este repositório; não se trata de uma tradução integral do material original.
+A organização dos assuntos foi inspirada no tutorial de PostgreSQL do w3resource;
+O conteúdo deste projeto foi reescrito e os exemplos foram criados para este repositório; 
+Não se trata de uma tradução integral do material original.
 
 - [Tutorial PostgreSQL — w3resource](https://w3resource.com/PostgreSQL/tutorial.php/)
 - [Documentação oficial do PostgreSQL](https://www.postgresql.org/docs/)
