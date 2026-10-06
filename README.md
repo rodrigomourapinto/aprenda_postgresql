@@ -1,3 +1,4 @@
+[![](https://img.shields.io/badge/postgreSQL-18-orange?logo=postgresql&style=flat-square)](https://www.postgresql.org/docs/18/index.html)
 # Aprenda PostgreSQL
 
 Material de estudo e consulta rápida para PostgreSQL, com exemplos práticos e uma Wiki em PT-BR.
